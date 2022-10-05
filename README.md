@@ -63,6 +63,8 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ![20221003_104929](https://user-images.githubusercontent.com/70302665/193968772-ee6efae7-8d02-4bff-ae07-3d4b60ab1671.jpg)
 !![image](https://user-images.githubusercontent.com/70302665/193974656-aac6acd9-54f9-4212-a013-4387090400f5.png)
 ![image](https://user-images.githubusercontent.com/70302665/193973450-24d766c6-8a50-4d6b-afc7-79ecc53b25bc.png)
+![TIPNIT LOGIN (2)](https://user-images.githubusercontent.com/70302665/193977405-5961dd94-f495-45b0-afc3-c57229ebe036.JPG)
+
 
 
    
