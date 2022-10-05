@@ -57,7 +57,26 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 *	-> Information Request -> Jumps to Car info/Kids/Pet Section (optional)
 *	-> Result -> Common Question Page -> Help Page -> Rating Us/Message Us
 ## Wireframes
-   
+   ![20221003_105354](https://user-images.githubusercontent.com/70302665/193964642-f57bad5a-1a82-47d2-a04b-7be876d617b6.jpg)
+   ![20221003_104857 (1)](https://user-images.githubusercontent.com/70302665/193964823-241b5ea6-a041-4b54-831a-f5207eef1321.jpg)
+   ![20221003_104929](https://user-images.githubusercontent.com/70302665/193965061-760a74e8-2406-44ba-a31f-e432d8db87af.jpg)
+   https://www.figma.com/file/hz02buu79h9PhSwf4RUPn8/TIP-NIT-LOGIN?node-id=0%3A1
+   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fhz02buu79h9PhSwf4RUPn8%2FTIP-NIT-LOGIN%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+   element.style {
+}
+embed {
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+body, embed, html {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+
+
 
    
 
