@@ -58,6 +58,12 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 *	-> Result -> Common Question Page -> Help Page -> Rating Us/Message Us
 ## Wireframes
    
+![20221003_105354](https://user-images.githubusercontent.com/70302665/193968715-a3457ae2-e345-47a1-8867-a24349dada72.jpg)
+![20221003_104857 (1)](https://user-images.githubusercontent.com/70302665/193968743-17b6c9e3-235b-47a5-9e38-3158fe925663.jpg)
+![20221003_104929](https://user-images.githubusercontent.com/70302665/193968772-ee6efae7-8d02-4bff-ae07-3d4b60ab1671.jpg)
+![image](https://user-images.githubusercontent.com/70302665/193969477-d0c4fded-2ded-4a37-93bf-1bb9bc813191.png)
+![image](https://user-images.githubusercontent.com/70302665/193973450-24d766c6-8a50-4d6b-afc7-79ecc53b25bc.png)
+
 
    
 
