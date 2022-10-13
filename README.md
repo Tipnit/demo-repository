@@ -73,7 +73,9 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 
 ### Networking
 
-![5969dc215f5d46e081691efea9c2b94b](https://user-images.githubusercontent.com/70302665/195479275-eeb9e8ac-6ba2-4ac9-a3f6-2c9d4270c3e1.jpeg)
+
+![d14d3370cb474ea3ab50c56784c876e2 (1)](https://user-images.githubusercontent.com/70302665/195493526-6cb8c090-d87e-4cc0-bc9b-d2de75253867.jpeg)
+
    
 ![77238543f7074ccb915843b571da429d-0001](https://user-images.githubusercontent.com/70302665/195485826-b8ff52db-9f26-4f59-9379-ddb55d016704.jpg)
 
