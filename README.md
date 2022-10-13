@@ -68,7 +68,8 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ## Schema
 ### Models
 #### Post
-![5215956b76494cfeb5b00a53783027b9](https://user-images.githubusercontent.com/70302665/195479352-e46b7b1b-57f1-4a2e-9866-fe01780fa23f.jpeg)
+[Data Models.pdf](https://github.com/Tipnit/demo-repository/files/9770236/Data.Models.pdf)
+
 
 
 ### Networking
