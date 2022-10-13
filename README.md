@@ -70,6 +70,9 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ## Schema
 ### Models
 #### Post
+![5969dc215f5d46e081691efea9c2b94b](https://user-images.githubusercontent.com/70302665/195479275-eeb9e8ac-6ba2-4ac9-a3f6-2c9d4270c3e1.jpeg)
+![5215956b76494cfeb5b00a53783027b9](https://user-images.githubusercontent.com/70302665/195479352-e46b7b1b-57f1-4a2e-9866-fe01780fa23f.jpeg)
+
 
 ### Networking
 
