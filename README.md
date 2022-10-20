@@ -38,7 +38,7 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 * Information Request
 * Result
 * Messaging Screen – Send us an email 
-* To rate us
+* To rate us 
 * Send us a message
  ## Navigation
 ### Tab Navigation (Tab to Screen)
