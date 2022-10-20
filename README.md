@@ -20,14 +20,14 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ## Product Spec
 ### User Stories (Required and Optional)
 ### Required Must-have Stories
-*	Location (zip code, States)
+*	Location (zip code, States) COMPLETED -KAMARI
 *	Occupation
 *	Salaries
 *	General Expenses User logs in (provide the same service but have the option to save their data)
 *	Email information
 	
 ### Optional Nice-to-have Stories
-*	Address
+*	Address COMPLETED -KAMARI
 *	Videos of how to save money
 *	Extra
 ### Screens
@@ -44,13 +44,13 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ### Tab Navigation (Tab to Screen)
 *	Homepage
 *	Information Request
-*	Car Info
+*	Car Info  COMPLETED -KAMARI
 *	Result Page
 *	Common Question Page
 *	Help Page
 ### Optional:
-*	Pets Section
-*	Kids
+*	Pets Section COMPLETED -KAMARI
+*	Kids COMPLETED -KAMARI
 *	Rating Us/Message Us
 ## Flow Navigation (Screen to Screen)
 *	Homepage -> Account login or creation if no log in is available
@@ -82,6 +82,7 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ![77238543f7074ccb915843b571da429d-0001](https://user-images.githubusercontent.com/70302665/195485826-b8ff52db-9f26-4f59-9379-ddb55d016704.jpg)
 
 
+![Animation](https://user-images.githubusercontent.com/112031151/196852315-be8b651b-4a10-4350-928b-5a55694a6332.gif)
 
 
 
