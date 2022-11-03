@@ -84,10 +84,7 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 
 ![Animation](https://user-images.githubusercontent.com/112031151/196852315-be8b651b-4a10-4350-928b-5a55694a6332.gif)
 
-Code  
-Models File
-
-Serializable 
+![TipNit](https://user-images.githubusercontent.com/77214902/199635714-ce8c22e7-bfd2-4b7c-9e63-1b6f4015a897.gif)
 
 
 
