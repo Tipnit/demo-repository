@@ -84,7 +84,8 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 
 ![Animation](https://user-images.githubusercontent.com/112031151/196852315-be8b651b-4a10-4350-928b-5a55694a6332.gif)
 
-![TipNit](https://user-images.githubusercontent.com/77214902/199635714-ce8c22e7-bfd2-4b7c-9e63-1b6f4015a897.gif)
+![TipNit](https://user-images.githubusercontent.com/77214902/200991486-9980f6ff-2f28-430a-8a8b-f06b2cf9f6eb.gif)
+
 
 ![Htmll](https://user-images.githubusercontent.com/70302665/199636298-9d336de3-ac20-4098-bf94-98f2141d2ed5.gif)
 ![Htmllllll](https://user-images.githubusercontent.com/70302665/200990120-32a7b3b0-dd63-40b3-bff9-b10a494d8c48.gif)
