@@ -1,6 +1,6 @@
 package com.example.shoppingcart.services;
 
-import com.example.shoppingcart.model.parse.Order;
+import com.example.shoppingcart.model.parse.Location;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.parse4j.ParseQuery;
@@ -10,20 +10,20 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 @Service
-public class OrderService {
+public class LocationService {
 
     protected final Log logger = LogFactory.getLog(this.getClass());
 
-    public ArrayList<Order> retrieveOrders()
+    public ArrayList<Location> retrieveLocation()
     {
-        final ArrayList<Order> orders = new ArrayList<>();
+        final ArrayList<Location> location = new ArrayList<>();
 
-        ParseQuery<Order> query = ParseQuery.getQuery(Order.class);
+        ParseQuery<Order> query = ParseQuery.getQuery(Location.class);
         try {
-            List<Order> list = query.find();
-            for (Order o : list) {
+            List<Location> list = query.find();
+            for (Location l : list) {
 
-                locations.add(o);
+                locations.add(l);
             }
 
         }
@@ -32,7 +32,7 @@ public class OrderService {
             logger.error("Error occurred", e);
         }
 
-        logger.info(Location.size());
+        logger.info(Location.address());
         return locations;
     }
 }
