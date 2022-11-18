@@ -1,0 +1,24 @@
+
+public class KidsServices{
+   protected final Log logger = LogFactory.getLog(this.getClass());
+
+   public ArrayList<Kids> retrieveKid()
+   {
+       final ArrayList<Kids> kid = new ArrayList<>();
+
+       ParseQuery<Kids> query = ParseQuery.getQuery(Cart.class);
+       try {
+           List<Kids> list = query.find();
+           for (Kids k : list) {
+               kid.add(k);
+           }
+
+       }
+       catch(Exception e)
+       {
+           logger.error("Error occurred", e);
+       }
+
+       return kid;
+   }
+}
