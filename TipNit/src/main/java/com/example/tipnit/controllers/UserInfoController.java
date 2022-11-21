@@ -1,14 +1,15 @@
 import com.example.tipnit.model.parse.UserInfo;
 import com.example.tipnit.model.serializable.SerializableUserInfo;
+import com.example.tipnit.services.UserInfoService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.ArrayList;
 
-public class LocationController{
-    private UserInfoService userService;
+public class UserInfoController{
+    private UserInfoService userInfoService;
 
-    public LocationController(UserInfoService userService) {
+    public UserInfoController(UserInfoService userService) {
         this.userInfoService = userService;
     }
 
