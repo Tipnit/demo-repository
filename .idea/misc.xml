@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TipNit/pom.xml" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 205c549e10e2ca1c78ef9fdef402f19e63d9997a
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
