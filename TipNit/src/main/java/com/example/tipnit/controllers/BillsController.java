@@ -1,9 +1,10 @@
-package com.example.shoppingcart.controllers;
-import com.example.shoppingcart.model.parse.Location;
-import com.example.shoppingcart.model.serializable.SerializableLocation;
-import com.example.shoppingcart.model.serializable.SerializableBills;
-import com.example.shoppingcart.services.LocationService;
-import com.example.shoppingcart.services.BillsService;
+package com.example.tipnit.controllers;
+//import com.example.tipnit.model.parse.Location;
+//import com.example.tipnit.model.serializable.SerializableLocation;
+//import com.example.tipnit.model.serializable.SerializableBills;
+import com.example.tipnit.model.Bills;
+import com.example.tipnit.services.LocationService;
+import com.example.tipnit.services.BillsService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

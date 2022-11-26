@@ -1,33 +1,33 @@
 body {
   font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
 }
-.movie-img{
+.tipnit-img{
   height: 10.625rem;
   max-width: 8.25rem;
 }
-.movie-card-details, .on-list{
+.tipnit-card-details, .on-list{
   font-size: 14px;
   color:#333;
 }
 .on-list {
   font-size: 11px;
 }
-.movie-title, .book-author, .on-list, .buy{
+.carNote, .utilities, .rent, .insurance{
   font-family: nyt-franklin, helvetica, arial, sans-serif;
 }
-.movie-title{
+.tipnit-results{
   font-weight: bold;
   font-size: 16px;
   color: #000;
 }
-.movie-author{
+.location{
   font-style: italic;
   font-size: 15px;
 }
 .movie-title > .badge {
   font-size: 1rem;
 }
-.buy{
+.submit{
   background-color: #567b95 !important;
   font-size: 11px;
   font-weight: bold;
