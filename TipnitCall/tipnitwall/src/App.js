@@ -1,4 +1,4 @@
-import TipnitList from "./pages/TipnitList";
+
 import "./App.css"
 import React from "react";
 import {
@@ -7,7 +7,8 @@ import {
     Route,
     Link
 } from "react-router-dom";
-import Home from "./pages/Home";
+
+import TipnitGoogle from "./TipnitGoogle";
 
 function App() {
     return (
@@ -39,8 +40,8 @@ function App() {
                     <div className="col-12">
 
                         <Routes>
-                            <Route path="/" element ={<Home/>} />
-                            <Route path="/list/:listName" element={<TipnitList />}/>
+
+                            <Route path="/" element={<TipnitGoogle />}/>
                         </Routes>
 
                     </div>

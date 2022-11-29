@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0613122e-ac86-4dc9-986a-5665c1271e2b" name="Changes" comment=".idea">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/parse4j__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipNit/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipNit/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipNit/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
@@ -42,7 +41,6 @@
       <change afterPath="$PROJECT_DIR$/TipnitCall/src/main/java/com/example/tipnitcall/TipnitCallApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/src/test/java/com/example/tipnitcall/TipnitCallApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/.env" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/package-lock.json" afterDir="false" />
@@ -54,7 +52,6 @@
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/public/manifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/public/robots.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/src/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/src/App.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/src/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TipnitCall/tipnitwall/src/index.js" afterDir="false" />
@@ -126,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668701754271</updated>
       <workItem from="1668701755691" duration="18775000" />
-      <workItem from="1669479556038" duration="1618000" />
+      <workItem from="1669479556038" duration="2398000" />
     </task>
     <servers />
   </component>
