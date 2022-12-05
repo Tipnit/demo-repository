@@ -33,8 +33,8 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 * Financial Planner COMPLETED -KAMARI
 * Map COMPLETED -Marthe
 * Comment/Concerns COMPLETED -KAMARI
-* Login  -KAMARI
-* Sign Up  -KAMARI
+* Login  -KAMARI COMPLETED -KAMARI
+* Sign Up  -KAMARI COMPLETED -KAMARI
  ## Navigation
 ### Tab Navigation (Tab to Screen)
 * Homepage 	
