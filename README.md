@@ -19,27 +19,22 @@ This website could be used as often as the user would like. If their expense has
 The first we would ask would be basic questions such as, do you pay rent. Then the questions would get more detailed depending on the individual. After asking questions and getting the input, the result would be display to the users but not save to the website for privacy purpose. But based on the result, we would provide more aids if needed. The goal is to be as accurate as possible. They would also have the option to send the result directly to their email. The use of API would be needed for not only their location but to direct them to more aid based on their result.
 ## Product Spec
 ### User Stories (Required and Optional)
-### Required Must-have Stories
-*	Location (zip code, States) COMPLETED -KAMARI
-*	Occupation
-*	Salaries
-*	General Expenses User logs in (provide the same service but have the option to save their data)
-*	Email information
+### Required
+*	A user must have a log inKAMARI
 	
 ### Optional Nice-to-have Stories
-*	Address COMPLETED -KAMARI
-*	Videos of how to save money
-*	Extra
+*	A user can have a make entries in the budget planner but doesn't need to KAMARI
+*	
 ### Screens
 
-* Homepage	
-* Login
-* About Us
-* Financial Planner
-* Map
-* Comment/Concerns 
-* Login 
-* Sign Up
+* Homepage COMPLETED -KAMARI	
+* Login COMPLETED -KAMARI
+* About Us COMPLETED -KAMARI
+* Financial Planner COMPLETED -KAMARI
+* Map COMPLETED -Marthe
+* Comment/Concerns COMPLETED -KAMARI
+* Login  -KAMARI
+* Sign Up  -KAMARI
  ## Navigation
 ### Tab Navigation (Tab to Screen)
 *	Homepage
@@ -53,9 +48,8 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 *	Kids COMPLETED -KAMARI
 *	Rating Us/Message Us
 ## Flow Navigation (Screen to Screen)
-*	Homepage -> Account login or creation if no log in is available
-*	-> Information Request -> Jumps to Car info/Kids/Pet Section (optional)
-*	-> Result -> Common Question Page -> Help Page -> Rating Us/Message Us
+*	Sign Up -> Login -> HomePage
+*	Once logged in you will be able click on any tab.
 ## Wireframes
    
 ![1d3c8b4cb55748709c9ec763acf73706 (1)](https://user-images.githubusercontent.com/70302665/194457482-af39f551-2980-4f1d-92c3-995903c90faa.jpeg)
