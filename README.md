@@ -34,12 +34,12 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 
 * Homepage	
 * Login
-* Registration
-* Information Request
-* Result
-* Messaging Screen – Send us an email 
-* To rate us 
-* Send us a message
+* About Us
+* Financial Planner
+* Map
+* Comment/Concerns 
+* Login 
+* Sign Up
  ## Navigation
 ### Tab Navigation (Tab to Screen)
 *	Homepage
