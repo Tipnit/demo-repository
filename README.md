@@ -12,7 +12,8 @@ Informative
 ###	Story 
    Taking entries from the users, such as incomes or expenses. It will then calculate your incomes and expenses. After taking account their monthly spending, if they are making less than they require, referring them to places that can assist them financially.
 ###	Market 
-It is designed for college students at famu. For the categories that are not apply to some, they would be optional, or the input could be 0 but not less then. 
+
+ed for college students at famu. For the categories that are not apply to some, they would be optional, or the input could be 0 but not less then. 
 ###	Habit 
 This website could be used as often as the user would like. If their expense has either increase or decrease, they could use it again to see by how much.
 ### Scope 
@@ -84,4 +85,5 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 ![Upd1](https://user-images.githubusercontent.com/70302665/200992087-e5c71a3a-5809-4616-b699-9fe722ffb18a.gif)
 
 
+![FinalProject1](https://user-images.githubusercontent.com/112031151/205552270-dcf87cad-07ed-4cdc-8ec6-614155a94d1e.gif)
 
