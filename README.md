@@ -10,9 +10,9 @@ A web that calculates your monthly expense based on necessary basis by consideri
 ###	Category 
 Informative
 ###	Story 
-   Taking input from the users, such as bills, allowance, and such. It will ask question about necessaries such as rent, utilities, phone bill and to those that have pets, car and or kids related questions. After taking account their monthly spending, if they are making less than they require, referring them to places that can assist them financially.
+   Taking entries from the users, such as incomes or expenses. It will then calculate your incomes and expenses. After taking account their monthly spending, if they are making less than they require, referring them to places that can assist them financially.
 ###	Market 
-It is designed for college students of all ages, though anyone could also use it. For the categories that are not apply to some, they would be optional, or the input could be 0 but not less then. 
+It is designed for college students at famu. For the categories that are not apply to some, they would be optional, or the input could be 0 but not less then. 
 ###	Habit 
 This website could be used as often as the user would like. If their expense has either increase or decrease, they could use it again to see by how much.
 ### Scope 
@@ -37,16 +37,14 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 * Sign Up  -KAMARI
  ## Navigation
 ### Tab Navigation (Tab to Screen)
-*	Homepage
-*	Information Request
-*	Car Info  COMPLETED -KAMARI
-*	Result Page
-*	Common Question Page
-*	Help Page
-### Optional:
-*	Pets Section COMPLETED -KAMARI
-*	Kids COMPLETED -KAMARI
-*	Rating Us/Message Us
+* Homepage 	
+* Login 
+* About Us 
+* Financial Planner 
+* Map 
+* Comment/Concerns 
+* Login 
+* Sign Up
 ## Flow Navigation (Screen to Screen)
 *	Sign Up -> Login -> HomePage
 *	Once logged in you will be able click on any tab.
