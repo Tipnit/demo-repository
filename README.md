@@ -8,35 +8,41 @@
 A web that calculates your monthly expense based on necessary basis by considering your lifestyle. It is used for students to have an idea how much they required a month and whether they need aid. It would help them to keep track off their budget and unnecessary spending.
 ## App Evaluation
 ###	Category 
-Informative
+Financial
 ###	Story 
    Taking entries from the users, such as incomes or expenses. It will then calculate your incomes and expenses. After taking account their monthly spending, if they are making less than they require, referring them to places that can assist them financially.
 ###	Market 
 
-ed for college students at famu. For the categories that are not apply to some, they would be optional, or the input could be 0 but not less then. 
+For college students at famu. 
 ###	Habit 
-This website could be used as often as the user would like. If their expense has either increase or decrease, they could use it again to see by how much.
+This app could be used as often or unoften as the user wanted depending on how their Financial situation is.
 ### Scope 
-The first we would ask would be basic questions such as, do you pay rent. Then the questions would get more detailed depending on the individual. After asking questions and getting the input, the result would be display to the users but not save to the website for privacy purpose. But based on the result, we would provide more aids if needed. The goal is to be as accurate as possible. They would also have the option to send the result directly to their email. The use of API would be needed for not only their location but to direct them to more aid based on their result.
+First we would ask would ask famu students would they use an app that can help them with their financial endevores. Then the questions would get more detailed depending on the individual. After asking questions and getting the input, the result would be display to the users. But based on the result, we would provide more aids if needed. The goal is to be as accurate as possible. The use of API would be able to help them find financial aid building.
 ## Product Spec
 ### User Stories (Required and Optional)
-### Required
-*	A user must have a log inKAMARI
+### Required Must-have Stories
+*	A user must have a log in KAMARI
 	
 ### Optional Nice-to-have Stories
 *	A user can have a make entries in the budget planner but doesn't need to KAMARI
 *	
 ### Screens
 
-* Homepage COMPLETED -KAMARI	
-* Login COMPLETED -KAMARI
+* Homepage COMPLETED -KAMARI
+Gives a brief summary of what our app is about
 * About Us COMPLETED -KAMARI
+Gives a brief summary of the founders
 * Financial Planner COMPLETED -KAMARI
+Takes the user inputs to calculates their spending
 * Map COMPLETED -Marthe
+Is the frontend API of google maps that shows the location of the financial aid building
 * Comment/Concerns COMPLETED -KAMARI
+A page where the user is allow to put in their information and comment or concern for a response
 * Login  -KAMARI COMPLETED -KAMARI
+Makes the user able to log in
 * Sign Up  -KAMARI COMPLETED -KAMARI
- ## Navigation
+Makes the user able to sign up
+ ## Navigation Flows
 ### Tab Navigation (Tab to Screen)
 * Homepage 	
 * Login 
@@ -48,7 +54,7 @@ The first we would ask would be basic questions such as, do you pay rent. Then t
 * Sign Up
 ## Flow Navigation (Screen to Screen)
 *	Sign Up -> Login -> HomePage
-*	Once logged in you will be able click on any tab.
+*	Login -> HomePage
 ## Wireframes
    
 ![1d3c8b4cb55748709c9ec763acf73706 (1)](https://user-images.githubusercontent.com/70302665/194457482-af39f551-2980-4f1d-92c3-995903c90faa.jpeg)
