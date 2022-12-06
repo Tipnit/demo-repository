@@ -21,10 +21,12 @@ First we would ask would ask famu students would they use an app that can help t
 ## Product Spec
 ### User Stories (Required and Optional)
 ### Required Must-have Stories
+*	A user has to sign up for the app MARTHE
 *	A user must have a log in KAMARI
+*	A user can use the financial planner Jonathon
 	
 ### Optional Nice-to-have Stories
-*	A user can have a make entries in the budget planner but doesn't need to KAMARI	
+*	A user can but doesn't have to complete the comments/concerns form KAMARI	
 ### Screens
 
 * Homepage COMPLETED -KAMARI
