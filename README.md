@@ -24,8 +24,7 @@ First we would ask would ask famu students would they use an app that can help t
 *	A user must have a log in KAMARI
 	
 ### Optional Nice-to-have Stories
-*	A user can have a make entries in the budget planner but doesn't need to KAMARI
-*	
+*	A user can have a make entries in the budget planner but doesn't need to KAMARI	
 ### Screens
 
 * Homepage COMPLETED -KAMARI
