@@ -81,7 +81,7 @@ A visual representation of the back4app database
    
 ![77238543f7074ccb915843b571da429d-0001](https://user-images.githubusercontent.com/70302665/195485826-b8ff52db-9f26-4f59-9379-ddb55d016704.jpg)
 
-
+A visual representation of the back4app database
 ![Animation](https://user-images.githubusercontent.com/112031151/196852315-be8b651b-4a10-4350-928b-5a55694a6332.gif)
 
 ![TipNit](https://user-images.githubusercontent.com/77214902/202350011-4a56ec83-216f-44c4-aa4e-469473fb000a.gif)
