@@ -75,7 +75,7 @@ Makes the user able to sign up
 
 ### Networking
 
-
+A visual representation of the back4app database
 ![d14d3370cb474ea3ab50c56784c876e2 (1)](https://user-images.githubusercontent.com/70302665/195493526-6cb8c090-d87e-4cc0-bc9b-d2de75253867.jpeg)
 
    
