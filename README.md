@@ -75,22 +75,24 @@ Makes the user able to sign up
 
 ### Networking
 
-A visual representation of the back4app database
+
 ![d14d3370cb474ea3ab50c56784c876e2 (1)](https://user-images.githubusercontent.com/70302665/195493526-6cb8c090-d87e-4cc0-bc9b-d2de75253867.jpeg)
 
    
 ![77238543f7074ccb915843b571da429d-0001](https://user-images.githubusercontent.com/70302665/195485826-b8ff52db-9f26-4f59-9379-ddb55d016704.jpg)
 
-A visual representation of the back4app database
+A visual representation of the back4app database and the created project board
 ![Animation](https://user-images.githubusercontent.com/112031151/196852315-be8b651b-4a10-4350-928b-5a55694a6332.gif)
-
+A visual representation of the backend table in intellij. Shown below are the several different models
 ![TipNit](https://user-images.githubusercontent.com/77214902/202350011-4a56ec83-216f-44c4-aa4e-469473fb000a.gif)
 
-
+A look at how our frontend react js login page will work
 ![Htmll](https://user-images.githubusercontent.com/70302665/199636298-9d336de3-ac20-4098-bf94-98f2141d2ed5.gif)
+updated project board
 ![Htmllllll](https://user-images.githubusercontent.com/70302665/200990120-32a7b3b0-dd63-40b3-bff9-b10a494d8c48.gif)
+A visual representation of what the frontend app will look like
 ![Upd1](https://user-images.githubusercontent.com/70302665/200992087-e5c71a3a-5809-4616-b699-9fe722ffb18a.gif)
 
-
+A video of how the app will run
 ![FinalProject1](https://user-images.githubusercontent.com/112031151/205552270-dcf87cad-07ed-4cdc-8ec6-614155a94d1e.gif)
 
